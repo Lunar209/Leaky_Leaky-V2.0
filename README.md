@@ -28,7 +28,7 @@ README based on https://gist.github.com/ajvpot/3115176
 This vulnerability affects all Minecraft accounts.
 
 ### Description
-A malicious attacker can log on using any Minecraft account to any Minecraft server relying on Mojang Specifications’ official authentication servers to verify user authenticity. This can allow an attacker to gain access to players’ accounts causing losses within the game, or allow an attacker to gain access to a privileged account on the server. Depending on common server modifications, privileged accounts could be used to acquire access to the operating system, or cause serious damage to data on the machine, which includes but is not limited to common software and data found in unison with a Minecraft server such as:
+A malicious attacker can log on.. using any Minecraft account to any Minecraft server relying on Mojang Specifications’ official authentication servers to verify user authenticity. This can allow an attacker to gain access to players’ accounts causing losses within the game, or allow an attacker to gain access to a privileged account on the server. Depending on common server modifications, privileged accounts could be used to acquire access to the operating system, or cause serious damage to data on the machine, which includes but is not limited to common software and data found in unison with a Minecraft server such as:
 
   * Server map files
   * Operating system files
